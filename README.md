@@ -7,7 +7,7 @@ A structured Python learning repository for building strong programming fundamen
 This repository is my personal learning and practice space for Python.  
 It is organized to cover:
 
-- Competitive Programming
+- Competitive Programming              
 - Practice Problems
 - Projects
 - Data Science
