@@ -12,7 +12,7 @@ It is organized to cover:
 - Projects
 - Data Science                                     
 - Automation
-- AI / ML
+- AI / ML                                   
 - Deep Learning
 - Generative AI
 - LLMs and modern AI tools
