@@ -10,7 +10,7 @@ It is organized to cover:
 - Competitive Programming              
 - Practice Problems
 - Projects
-- Data Science
+- Data Science                                     
 - Automation
 - AI / ML
 - Deep Learning
