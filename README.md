@@ -8,7 +8,7 @@ This repository is my personal learning and practice space for Python.
 It is organized to cover:
 
 - Competitive Programming              
-- Practice Problems
+- Practice Problems                                   
 - Projects
 - Data Science                                     
 - Automation
