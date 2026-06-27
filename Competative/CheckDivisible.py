@@ -7,7 +7,7 @@ def ChkDivi(No):
 def main():
     print("Enter Number")
     Value = int(input())
-
+ 
     bRet = ChkDivi(Value)
 
     if(bRet == True):
