@@ -6,7 +6,7 @@ def main():
     print("Enter first number")
     no1 = int(input())
     
-    print("Enter Second number")
+    print("Enter Second number") 
     no2 = int(input())
 
     iRet = Addition(no1 , no2)
