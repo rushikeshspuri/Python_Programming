@@ -4,7 +4,7 @@ def DisplahFactors(No):
             print(i)
 
 def main():
-    print("enter Number to check factors")
+    print("enter Number to check factors") 
     value = int(input())
     DisplahFactors(value)
 
