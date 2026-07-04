@@ -12,7 +12,7 @@ def main():
 
     Ret = SumNatural(Value)
 
-    print("Sum of first", Value, "natural numbers is :", Ret)
+    print("Sum of first", Value, "natural numbers is :", Ret) 
 
 if __name__ == "__main__":
     main()
