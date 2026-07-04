@@ -9,4 +9,4 @@ def main():
     DisplayTable(value)
 
 if __name__ == "__main__":
-    main()
+    main() 
