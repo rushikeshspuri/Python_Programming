@@ -7,7 +7,7 @@ def ChkDiv(No):
 
 def main():
     print("enter Number")
-    Value = int(input())
+    Value = int(input()) 
 
     Ret = ChkDiv(Value)
 
